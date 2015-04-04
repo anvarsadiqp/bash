@@ -1,4 +1,6 @@
 #!/bin/bash
+# to get a website information like 
+# run : bash~# sh site-location.sh github.com fb.com ...
 _dom=$@
  
 # Die if no domains are given
