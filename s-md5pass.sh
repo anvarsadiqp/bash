@@ -1,4 +1,5 @@
 #!/bin/bash
+# ping me on github https://github.com/anvarsadiqp/bash
 # to generate a md5 password in command line
 # run : bash~# sh md5pass.sh pass
 pas=$1
